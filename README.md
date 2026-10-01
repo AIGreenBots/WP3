@@ -1,8 +1,8 @@
-# AIGreenBots: MSCA Project Workspace
+# AIGreenBots: Work Package 3
 
 [![EU Funding](https://img.shields.io)](https://aigreenbots.eu)
 
-This is the central orchestration repository for the **AIGreenBots** project. It utilizes Git Submodules to maintain a hierarchical structure of Work Packages (WPs) and specific Deliverables.
+This is the central orchestration repository for the **AIGreenBots** Work Package 3. It utilizes Git Submodules to maintain a hierarchical structure of Work Packages (WPs) and specific Deliverables.
 
 ---
 
